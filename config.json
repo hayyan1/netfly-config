@@ -1,25 +1,102 @@
 {
-  "announcement": "",
-  "force_update": true,
-  "min_version": 1,
-  "bt": "live.0vcmc02vl8agx9z8jqsx",
-  "app_key": "5ebGkzP6v-IuG3/Nq7sKtTwQsKl7kjAE0aO",
-  "edges": [],
-  "channels": [
-    {"id": "79c9c3765c92d3ee7100533e61987a91581b", "name": "beIN Sport HD 1",  "group": "beIN Sports", "logo": ""},
-    {"id": "2cc1391a599825427100533e61987a9158ba", "name": "beIN Sport HD 2",  "group": "beIN Sports", "logo": ""},
-    {"id": "5ded61533ecc1feb7100533e61987a91598b", "name": "beIN Sport HD 3",  "group": "beIN Sports", "logo": ""},
-    {"id": "8f185fa33076b7617100533e61987a915ab5", "name": "beIN Sport HD 4",  "group": "beIN Sports", "logo": ""},
-    {"id": "c21eda5e7ab5d0c87100533e61987a915c50", "name": "beIN Sport HD 5",  "group": "beIN Sports", "logo": ""},
-    {"id": "a4a11335d52f32047100533e61987a915dd7", "name": "beIN Sport HD 6",  "group": "beIN Sports", "logo": ""},
-    {"id": "9b3433711520bfe97100533e61987a915f66", "name": "beIN Sport HD 7",  "group": "beIN Sports", "logo": ""},
-    {"id": "c8f0de14079cc10e7100533e61987a9160d1", "name": "beIN Sport HD 8",  "group": "beIN Sports", "logo": ""},
-    {"id": "3b240fcde1a41ab47100533e61987a9161ed", "name": "beIN Sport HD 9",  "group": "beIN Sports", "logo": ""},
-    {"id": "795cc83cb71b7c4a7100533e61987a915721", "name": "beIN Sports News", "group": "beIN Sports", "logo": ""},
-    {"id": "84da6f43605cc0c57100533e619a9114188f", "name": "MBC 1 HD",         "group": "MBC",         "logo": ""},
-    {"id": "d2d8cd663a87eebe7100533e619a9114199a", "name": "MBC 2 HD",         "group": "MBC",         "logo": ""},
-    {"id": "b00e2f2e1f0ef62a7100533e61987a919151", "name": "MBC 3 HD",         "group": "MBC",         "logo": ""},
-    {"id": "7f9214a34d7f2d677100533e61987a919240", "name": "MBC 4 HD",         "group": "MBC",         "logo": ""},
-    {"id": "8488a2d4bba6b7647100533e61987a95465e", "name": "Sky TG24",         "group": "News",        "logo": ""}
-  ]
+    "app_key":  "5ebGkzP6v-IuG3/Nq7sKtTwQsKl7kjAE0aO",
+    "bt":  "live.0vcmc02vl8agx9z8jqsx",
+    "announcement":  "",
+    "channels":  [
+                     {
+                         "group":  "beIN Sports",
+                         "name":  "beIN Sport HD 1",
+                         "id":  "79c9c3765c92d3ee7100533e61987a91581b",
+                         "logo":  ""
+                     },
+                     {
+                         "group":  "beIN Sports",
+                         "name":  "beIN Sport HD 2",
+                         "id":  "2cc1391a599825427100533e61987a9158ba",
+                         "logo":  ""
+                     },
+                     {
+                         "group":  "beIN Sports",
+                         "name":  "beIN Sport HD 3",
+                         "id":  "5ded61533ecc1feb7100533e61987a91598b",
+                         "logo":  ""
+                     },
+                     {
+                         "group":  "beIN Sports",
+                         "name":  "beIN Sport HD 4",
+                         "id":  "8f185fa33076b7617100533e61987a915ab5",
+                         "logo":  ""
+                     },
+                     {
+                         "group":  "beIN Sports",
+                         "name":  "beIN Sport HD 5",
+                         "id":  "c21eda5e7ab5d0c87100533e61987a915c50",
+                         "logo":  ""
+                     },
+                     {
+                         "group":  "beIN Sports",
+                         "name":  "beIN Sport HD 6",
+                         "id":  "a4a11335d52f32047100533e61987a915dd7",
+                         "logo":  ""
+                     },
+                     {
+                         "group":  "beIN Sports",
+                         "name":  "beIN Sport HD 7",
+                         "id":  "9b3433711520bfe97100533e61987a915f66",
+                         "logo":  ""
+                     },
+                     {
+                         "group":  "beIN Sports",
+                         "name":  "beIN Sport HD 8",
+                         "id":  "c8f0de14079cc10e7100533e61987a9160d1",
+                         "logo":  ""
+                     },
+                     {
+                         "group":  "beIN Sports",
+                         "name":  "beIN Sport HD 9",
+                         "id":  "3b240fcde1a41ab47100533e61987a9161ed",
+                         "logo":  ""
+                     },
+                     {
+                         "group":  "beIN Sports",
+                         "name":  "beIN Sports News",
+                         "id":  "795cc83cb71b7c4a7100533e61987a915721",
+                         "logo":  ""
+                     },
+                     {
+                         "group":  "MBC",
+                         "name":  "MBC 1 HD",
+                         "id":  "84da6f43605cc0c57100533e619a9114188f",
+                         "logo":  ""
+                     },
+                     {
+                         "group":  "MBC",
+                         "name":  "MBC 2 HD",
+                         "id":  "d2d8cd663a87eebe7100533e619a9114199a",
+                         "logo":  ""
+                     },
+                     {
+                         "group":  "MBC",
+                         "name":  "MBC 3 HD",
+                         "id":  "b00e2f2e1f0ef62a7100533e61987a919151",
+                         "logo":  ""
+                     },
+                     {
+                         "group":  "MBC",
+                         "name":  "MBC 4 HD",
+                         "id":  "7f9214a34d7f2d677100533e61987a919240",
+                         "logo":  ""
+                     },
+                     {
+                         "group":  "News",
+                         "name":  "Sky TG24",
+                         "id":  "8488a2d4bba6b7647100533e61987a95465e",
+                         "logo":  ""
+                     }
+                 ],
+    "force_update":  false,
+    "min_version":  1,
+    "edges":  [
+
+              ]
 }
